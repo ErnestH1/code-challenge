@@ -1,0 +1,16 @@
+{
+  "name": "speed-detector",
+  "version": "1.0.0",
+  "description": "This application is used to detect drivers speed and provide points",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "car",
+    "speed",
+    "detector"
+  ],
+  "author": "Ernest H",
+  "license": "ISC"
+}

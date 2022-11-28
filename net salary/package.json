@@ -1,0 +1,17 @@
+{
+  "name": "net-salary",
+  "version": "1.0.0",
+  "description": "This is an application used to calculate the net salary of an individual",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "net-salary",
+    "paye",
+    "nssf",
+    "nhif"
+  ],
+  "author": "Ernest H",
+  "license": "ISC"
+}

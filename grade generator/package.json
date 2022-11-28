@@ -1,0 +1,24 @@
+{
+  "name": "grade-generator",
+  "version": "1.0.0",
+  "description": "An application to generate student grades by collecting their marks",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErnestH1/grade-generator.git"
+  },
+  "keywords": [
+    "grade",
+    "marks",
+    "grade-generator"
+  ],
+  "author": "Ernest H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErnestH1/grade-generator/issues"
+  },
+  "homepage": "https://github.com/ErnestH1/grade-generator#readme"
+}

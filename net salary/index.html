@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" />
+    <title>Tax calculator app</title>
+</head>
+<body>
+    <div class ="container" >
+        <h1>Income-Tax Calculator</h1>
+        <p2 id="inst" >enter your basic salary</p2><br><br>
+        <input type="number"  id="input"  name="quantity" min="0" max="10000000"><br><br>
+        <button id="nhif" onclick="nhif()">NHIF</button>
+        <button id="nssf" onclick="nssf()" >NSSF</button>
+        <button id="paye" onclick="paye ()">PAYE</button>
+        <button id="total" onclick="totalDed ()">TOTAL DEDUCTION</button>
+        <p  id="result"  ></p>
+       
+    
+    </div>
+    <script src="index.js"></script>
+</body>
+
+</html>
+
