@@ -22,12 +22,12 @@ switch (true) {
 		return document.getElementById("outcome").innerHTML = "Grade  C";
 		
 	// If grading is 40 or greater
-	case grade >= 40:
-        return document.getElementById("outcome").innerHTML = 'Grade E';
+	case grade >=40:
+        return document.getElementById("outcome").innerHTML = 'Grade D';
 		
 	//// If grading less than 40 	
     case grade <40:
-        return document.getElementById("outcome").innerHTML = 'Grade F';
+        return document.getElementById("outcome").innerHTML = 'Grade E',document.getElementById("text").innerHTML = "You failed";
 
 }
 }
