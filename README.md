@@ -4,8 +4,8 @@ GETTING STARTED
 
 In order for you to use the content on this repo ensure you have the following:
 
-#A computer that runs on either of the following; (Windows 7+, Linux, Mac OS)
-#nodejs 9.0+
+1.A computer that runs on either of the following; (Windows 7+, Linux, Mac OS)
+2.nodejs 9.0+
 
 To use this repo on your machine requires some simple steps
 
@@ -31,9 +31,9 @@ code .
 
 By opening the html folder on your browser you can access the diffrent applicaions which include 
 
-#Grade generator.
-#Net salary.
-#Speed detector.
+1.Grade generator.
+2.Net salary.
+3.Speed detector.
 
 
 
@@ -43,9 +43,9 @@ This is used to grade students marks by taking in a value between 0 and 100,it t
 
 Description 
 
-#When you enter marks between 0 and 100 in the input provided.
-#Click the grade button.
-#The displayed grade would be equivalent to the marks provided.
+When you enter marks between 0 and 100 in the input provided.
+Click the grade button.
+The displayed grade would be equivalent to the marks provided.
 
 NET SALARY CALCULATOR 
 
@@ -54,9 +54,9 @@ It can also calculate the individuals NHIF,NSSF and PAYE
 
 Description
 
-#Enter your basic salary in the input provided.
-#Click either NHIF,NSSF or PAYE to find out the amount you are being charged .
-#Click the total deduction button to find the total amount being deducted which is inclusive of PAYE,NHIF and NSSF.
+Enter your basic salary in the input provided.
+Click either NHIF,NSSF or PAYE to find out the amount you are being charged .
+Click the total deduction button to find the total amount being deducted which is inclusive of PAYE,NHIF and NSSF.
 
 SPEED CALCULATOR 
 
@@ -64,7 +64,16 @@ This application is used to calculate the points towards an individuals driving 
 
 Description
 
-#When the speed of the car is 70 or less no points are added to the driving licence.
-#If the total points is more than 12 the driving licence is suspended .
-#Please enter your speed to the input provided .
-#Click on check points to see the amount of points added to the licence.
+It takes in the speed of the individual and gives the total points added towards the driving licence .
+When the speed of the car is 70 or less no points are added to the driving licence.
+If the total points is more than 12 the driving licence is suspended .
+Please enter your speed to the input provided .
+Click on check points to see the amount of points added to the licence.
+
+
+
+This project was contributed to by:
+
+Ernest Hanson
+
+License ISC
